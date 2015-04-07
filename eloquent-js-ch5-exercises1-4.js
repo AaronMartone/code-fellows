@@ -1,5 +1,5 @@
 // =====================================================================================================================
-// Student: Aaron Martone (am@aaronmartone.com)
+// Student: Aaron Martone
 // Class: Fullstack JavaScript Development Accelerator (Apr 27 - Jun 19, Seattle Campus)
 // Assignment: Reading: Eloquent JavaScript (Due Apr 27, 2015)
 // Task: Submit a Github repo containing solutions for exercises found at end of Ch. 5.
@@ -70,7 +70,7 @@ $am.ancestry = JSON.parse($am.jsonData);
 
 
 // =====================================================================================================================
-// Student: Aaron Martone (am@aaronmartone.com)
+// Student: Aaron Martone
 // Class: Fullstack JavaScript Development Accelerator (Apr 27 - Jun 19, Seattle Campus)
 // Assignment: Reading: Eloquent JavaScript (Due Apr 27, 2015)
 // Exercise 1: Flattening
@@ -98,7 +98,7 @@ $am.exercise1 = (function() {
 
 
 // =====================================================================================================================
-// Student: Aaron Martone (am@aaronmartone.com)
+// Student: Aaron Martone
 // Class: Fullstack JavaScript Development Accelerator (Apr 27 - Jun 19, Seattle Campus)
 // Assignment: Reading: Eloquent JavaScript (Due Apr 27, 2015)
 // Exercise 2: Mother-Child Age Difference
@@ -156,7 +156,7 @@ $am.exercise2 = (function() {
 
 
 // =====================================================================================================================
-// Student: Aaron Martone (am@aaronmartone.com)
+// Student: Aaron Martone
 // Class: Fullstack JavaScript Development Accelerator (Apr 27 - Jun 19, Seattle Campus)
 // Assignment: Reading: Eloquent JavaScript (Due Apr 27, 2015)
 // Exercise 3: Historical Life Expectancy
@@ -200,7 +200,7 @@ $am.exercise3 = (function() {
 
 
 // =====================================================================================================================
-// Student: Aaron Martone (am@aaronmartone.com)
+// Student: Aaron Martone
 // Class: Fullstack JavaScript Development Accelerator (Apr 27 - Jun 19, Seattle Campus)
 // Assignment: Reading: Eloquent JavaScript (Due Apr 27, 2015)
 // Exercise 4: Every And Then Some
